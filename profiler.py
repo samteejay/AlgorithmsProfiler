@@ -1,6 +1,6 @@
 """
 File: profiler.py
-Author: SamTj
+Author: Samuel Tijani
 Defines a class for profiling sort algorithms.
 A Profiler object tracks the list, the number of comparisons
 and exchanges, and the running time. The Profiler can also
